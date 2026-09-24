@@ -1,16 +1,11 @@
-## Hi there 👋
-
-<!--
-**lylylmhmod/lylylmhmod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Ly Ly là biên tập viên tại LMHMOD.ME, phụ trách nội dung về game, ứng dụng Android, APK và MOD APK. Các bài viết tập trung giải thích lối chơi, tính năng, nội dung bản MOD, cách cài đặt và những thông tin cần biết trước khi tải.
+Thông tin về Ly Ly: https://lmhmod.me/author/lyly/
+Social của tôi:
+https://www.facebook.com/lylylmhmod
+https://www.reddit.com/user/lylylmhmod/
+https://www.pinterest.com/lylylmhmod/
+band.us/@lylylmhmod
+https://gravatar.com/lylylmhmod
+https://mastodon.social/@lylylmhmod
+https://www.deviantart.com/lylylmhmod
+https://www.minds.com/lylylmhmod/
